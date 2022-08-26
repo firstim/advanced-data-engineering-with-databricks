@@ -41,7 +41,7 @@
 # MAGIC * Starting a stream against the **`bronze`** table
 # MAGIC * Filtering all records by **`topic = 'workout'`**
 # MAGIC * Deduping the data 
-# MAGIC * Merging non-matching records into **`owrkouts_silver`**
+# MAGIC * Merging non-matching records into **`workouts_silver`**
 # MAGIC 
 # MAGIC ...roughly the same strategy we used earlier to create the **`heart_rate_silver`** table
 
